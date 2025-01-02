@@ -81,6 +81,13 @@ Then you have to run the Docker container:
 docker run -p 3000:3000 path-finder-app
 ```
 
+### Run locally
+
+You can also run the app locally. You need first to install the dependencies then to launch the app:
+```bash
+npm install
+node app.js
+```
 
 ### Interact with the REST API
 
